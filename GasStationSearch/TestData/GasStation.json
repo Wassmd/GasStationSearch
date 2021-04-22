@@ -1,0 +1,148 @@
+
+[
+    {
+        "name": "Shell Bremen Kornstr. 266",
+        "coordinate": {
+            "latitude": 53.055816650390625,
+            "longitude": 8.813713073730469
+        },
+        "pricePerLiter": 1.499
+    },
+    {
+        "name": "JET BREMEN NEUENLANDER STR. 119",
+        "coordinate": {
+            "latitude": 53.05120086669922,
+            "longitude": 8.808480262756348
+        },
+        "pricePerLiter": 1.489
+    },
+    {
+        "name": "Supermarkt-Tankstelle am real,- Markt BREMEN DUCKWITZSTR.",
+        "coordinate": {
+            "latitude": 53.06340026855469,
+            "longitude": 8.776320457458496
+        },
+        "pricePerLiter": 1.489
+    },
+    {
+        "name": "BMÖ Stuhr",
+        "coordinate": {
+            "latitude": 53.02886962890625,
+            "longitude": 8.807611465454102
+        },
+        "pricePerLiter": 1.569
+    },
+    {
+        "name": "Esso Tankstelle",
+        "coordinate": {
+            "latitude": 53.084163665771484,
+            "longitude": 8.825713157653809
+        },
+        "pricePerLiter": 1.549
+    },
+    {
+        "name": "Bremen",
+        "coordinate": {
+            "latitude": 53.08781814575195,
+            "longitude": 8.784419059753418
+        },
+        "pricePerLiter": 1.529
+    },
+    {
+        "name": "Shell Bremen Hemmstr. 351",
+        "coordinate": {
+            "latitude": 53.100704193115234,
+            "longitude": 8.814656257629395
+        },
+        "pricePerLiter": 1.539
+    },
+    {
+        "name": "Aral Tankstelle",
+        "coordinate": {
+            "latitude": 53.01789474487305,
+            "longitude": 8.789341926574707
+        },
+        "pricePerLiter": 1.509
+    },
+    {
+        "name": "Supermarkt-Tankstelle am real,- Markt BREMEN STEINSETZERSTR. 15",
+        "coordinate": {
+            "latitude": 53.04560089111328,
+            "longitude": 8.84691047668457
+        },
+        "pricePerLiter": 1.479
+    },
+    {
+        "name": "Shell Bremen Neuenlander Str. 25/27",
+        "coordinate": {
+            "latitude": 53.065765380859375,
+            "longitude": 8.782990455627441
+        },
+        "pricePerLiter": 1.499
+    },
+    {
+        "name": "Shell Stuhr Bremer Str. 105",
+        "coordinate": {
+            "latitude": 53.028778076171875,
+            "longitude": 8.806306838989258
+        },
+        "pricePerLiter": 1.489
+    },
+    {
+        "name": "Esso Tankstelle",
+        "coordinate": {
+            "latitude": 53.09428787231445,
+            "longitude": 8.792462348937988
+        },
+        "pricePerLiter": 1.539
+    },
+    {
+        "name": "Stuhr, Bremer Str. 117a",
+        "coordinate": {
+            "latitude": 53.03058624267578,
+            "longitude": 8.807483673095703
+        },
+        "pricePerLiter": 1.569
+    },
+    {
+        "name": "BMÖ Arsterdamm",
+        "coordinate": {
+            "latitude": 53.040714263916016,
+            "longitude": 8.831663131713867
+        },
+        "pricePerLiter": 1.489
+    },
+    {
+        "name": "Shell Bremen Neuenlander Str 170",
+        "coordinate": {
+            "latitude": 53.05532455444336,
+            "longitude": 8.799813270568848
+        },
+        "pricePerLiter": 1.499
+    },
+    {
+        "name": "BMÖ Tankstelle Traut",
+        "coordinate": {
+            "latitude": 53.08973693847656,
+            "longitude": 8.803913116455078
+        },
+        "pricePerLiter": 1.539
+    },
+    {
+        "name": "Bremen",
+        "coordinate": {
+            "latitude": 53.095802307128906,
+            "longitude": 8.769403457641602
+        },
+        "pricePerLiter": 1.529
+    },
+    {
+        "name": "Bft Bremen Auf Dem Bohnenkamp 58",
+        "coordinate": {
+            "latitude": 53.082401275634766,
+            "longitude": 8.765339851379395
+        },
+        "pricePerLiter": 1.489
+    }
+]
+

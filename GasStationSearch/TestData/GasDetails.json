@@ -1,0 +1,35 @@
+{
+    "name": "Shell",
+    "openingHours": [
+        {
+            "opensInMinutesOfDay": 450,
+            "closesInMinutesOfDay": 1320
+        }
+    ],
+    "location": {
+        "coordinate": {
+            "latitude": 53.0822868347168,
+            "longitude": 8.828614234924316
+        },
+        "address": {
+            "street": "Hollerallee",
+            "houseNumber": "27",
+            "postalCode": "28209",
+            "city": "Bremen"
+        }
+    },
+    "pricesPerLiter": [
+        {
+            "pricePerLiter": 1.249,
+            "petrolType": "Diesel"
+        },
+        {
+            "pricePerLiter": 1.389,
+            "petrolType": "SuperE10"
+        },
+        {
+            "pricePerLiter": 1.439,
+            "petrolType": "SuperE5"
+        }
+    ]
+}
