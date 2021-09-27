@@ -12,7 +12,7 @@ jobs:
     runs-on: macos-latest
     
     steps:
-     - uses: fwal/setup-swift@v1
+     - uses: fwal/setup-swift@d43a564349d1341cd990cfbd70d94d63b8899475
        with:
         swift-version: "5.5"   
      - name: Get swift version
